@@ -1,6 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:36D1DC,100:5B86E5&height=140&section=header&text=&fontSize=36" alt=""/>
 
-![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=36D1DC&center=true&lines=Obidjon%20%7C%20Data%20Engineer;Full-Stack%20Developer;Samarkand%20AI%20Hackathon%20-%201st%20place)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=36D1DC&lines=Obidjon+%7C+Data+Engineer;Full-Stack+Developer;Samarkand+AI+Hackathon+-+1st+place" />
+</p>
+
 
 # 👋 Salom — Obidjon
 
