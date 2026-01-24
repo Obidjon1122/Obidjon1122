@@ -1,58 +1,106 @@
-# 👋 Salom! Men Obidjon — Zamonaviy Full‑Stack Developer
+# 👋 Salom — Obidjon | Data Engineer & Full‑Stack Developer
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:654ea3&height=140&section=header&text=Obidjon%20%7C%20Full-Stack%20Developer&fontSize=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=140&section=header&text=Obidjon%20%7C%20Data%20Engineer%20%26%20Full-Stack%20Developer&fontSize=36)
 
-Men intuitiv va performansga yo'naltirilgan veb ilovalar yaratishni yaxshi ko'raman. Hozirda React + TypeScript bilan frontend, Node.js yoki Python bilan backend va containerizatsiya/Docker asoslari ustida ishlayman. Bu README sizning profilingizni zamonaviy, professional va vizual jihatdan jozibador qilish uchun tayyorlandi.
-
----
-
-## 🔭 Hozir nima bilan shug'ullanayapman
-- 🧩 Microservices arxitekturasini o'rganish va sinovdan o'tkazish
-- ⚡ Ishlash tezligini optimallashtirish (Lighthouse, bundle splitting)
-- ✨ Ochiq manbaga kichik, ammo foydali hissa qo'shish
+Men ma'lumotlarni biznes qiymatiga aylantirishga ixtisoslashgan Data Engineer va end‑to‑end web ilovalar yaratadigan Full‑Stack developerman. Kuchli pipeline arxitekturasi, avtomatlashtirilgan ETL/ELT jarayonlari va ishonchli infra (IaC, containerization) — mening asosiy kuchlarim.
 
 ---
 
-## 🚀 Tez faktlar
-- Ism: Obidjon
-- GitHub: [@Obidjon1122](https://github.com/Obidjon1122)
-- Roli: Full‑Stack Developer
-- Joylashuv: (Sizning shahringiz yoki mamlakatingiz)
-- Til: Uzbek / English
+## 🔎 Tez profil
+- Rol: Data Engineer · Full‑Stack Developer  
+- Tajriba: ETL/ELT, Data Modeling, Streaming, Microservices, CI/CD, Observability  
+- Ishlash printsiplari: Idempotence, Testable pipelines, Schema‑first, Infrastructure as Code  
+- Joylashuv: (Shahar, Mamlakat) — remote ishlashga ochiq
 
 ---
 
-## 🛠 Texnologiya stogim
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&style=flat-square)
-![React](https://img.shields.io/badge/-React-20232A?logo=react&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=flat-square)
-![Postgres](https://img.shields.io/badge/-Postgres-336791?logo=postgresql&style=flat-square)
+## 🏆 Yutuqlar
+- Samarkand AI Hackathon — 1‑o'rin  
+- (Qo'shing: kompaniya/loyiha bo'yicha o'lchovli yutuqlar yoki sertifikatlar)
 
 ---
 
-## ✨ Highlight loyihalar (pin qilinadigan)
-- [Project-A](https://github.com/Obidjon1122/project-a) — Modern SPA, React + TypeScript, real‑time funksiyalar
-- [Project-B](https://github.com/Obidjon1122/project-b) — REST API, Node.js + Express, JWT auth
-- [Project-C](https://github.com/Obidjon1122/project-c) — Docker + CI/CD pipeline misoli
+## 🛠️ Texnologiya stakim
+- Ma'lumotlar: Python, SQL (Postgres, BigQuery, Redshift), Apache Spark, Pandas, Dask  
+- Orkestratsiya: Apache Airflow, dbt, Prefect  
+- Streaming: Apache Kafka, Debezium  
+- Storage & Lakehouse: S3, Parquet, Delta Lake, Snowflake  
+- Backend: FastAPI, Node.js, Express, GraphQL  
+- Frontend: React, Next.js, TypeScript, Tailwind CSS  
+- Infra & DevOps: Docker, Kubernetes, Terraform, GitHub Actions  
+- Monitoring & Testing: Prometheus, Grafana, OpenTelemetry, Sentry, pytest
 
 ---
 
-## 📈 GitHub statistikika
-![Obidjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obidjon1122&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obidjon1122&layout=compact&theme=radical)
+## ✨ Asosiy yutuqlar (misol formatida)
+- Kundalik ETL pipeline: 10M+ yozuvni qayta ishlash — latency 40% kamayishi va alert/retry mexanizmi.  
+- Real‑time analytics: Kafka + Spark Streaming bilan event‑driven processing, 99.9% uptime.  
+- Microservices arxitekturasi: auth va metrics bilan yuqori yuk ostida barqaror ishlash.  
+- Infra avtomatlashtirish: Terraform + GitHub Actions yordamida multi‑env deploy.
+
+(Haqqoniy raqam va tafsilotlarni qo'shishni xohlasangiz, men ular bilan yangilayman.)
 
 ---
 
-## 💬 Aloqa
-- Email: your.email@example.com
-- Telegram: [@yourhandle](https://t.me/yourhandle)
-- LinkedIn: [Sizning profil](https://www.linkedin.com/in/yourprofile)
+## 🚀 Tanlangan loyihalar
+- data-pipelines — End‑to‑end ETL (Airflow DAGs, Spark jobs, dbt models)  
+  https://github.com/Obidjon1122/data-pipelines
+- analytics-platform — Data lake → warehouse integratsiyasi va BI optimizatsiyasi  
+  https://github.com/Obidjon1122/analytics-platform
+- fullstack-dashboard — React + TypeScript frontend, FastAPI backend, real‑time metrics  
+  https://github.com/Obidjon1122/fullstack-dashboard
+
+(Yuoqridagi havolalarni haqiqiy repolar bilan almashtiring yoki men yaratib qo'yishim mumkin.)
 
 ---
 
-## 🌱 Qanday qilib README-ni shaxsiylashtirish mumkin
-1. README ichidagi hamma linklarni o'zingizning haqiqiy repolaringiz va profil manzillaringiz bilan almashtiring.
-2. Header uchun Capsule Render URLidagi `text` parametrini o'zgartiring.
-3. GitHub stat va top-langs'ga username sifatida `Obidjon1122` qoldiring — avtomatik yangilanadi.
+## 📦 Quick start (umumiy ko'rsatma)
+1. Repo klon qilish:
+   - git clone <repo-url>
+2. Virtual muhit va dependency:
+   - python -m venv .venv && source .venv/bin/activate
+   - pip install -r requirements.txt
+3. Airflow (local demo):
+   - docker-compose up -d
+4. Frontend:
+   - cd web && npm install && npm run dev
+
+(Har bir loyiha ichida batafsil Quick Start bo'ladi.)
+
+---
+
+## 🔍 Arxitektura va yaxshi amaliyotlar
+- Idempotent ETL: dedup, watermarking, va retry logikasi.  
+- Schema management: Avro/Protobuf yoki dbt schema tests + contract testing.  
+- Observability: tracing va metrics — OpenTelemetry + Grafana.  
+- Testing: unit, integration va contract tests.  
+- Cost & performance: Parquet, partitioning va clustering orqali optimallashtirish.
+
+---
+
+## 📄 Ta'lim va sertifikatlar
+- (Masalan) Google Cloud Professional Data Engineer — YYYY  
+- (Masalan) Databricks Certified Associate — YYYY  
+- (Masalan) Certified Kubernetes Application Developer — YYYY
+
+(Iltimos, haqiqiy sertifikatlarni shu yerga qo'shing.)
+
+---
+
+## 📬 Aloqa
+- Email: your.email@example.com  
+- Telegram: [@yourhandle](https://t.me/yourhandle)  
+- LinkedIn: [Ism Familiya](https://www.linkedin.com/in/yourprofile)  
+- Open to: Full‑time · Contract · Remote
+
+---
+
+## 📈 GitHub Stats
+![Obidjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obidjon1122&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obidjon1122&layout=compact&theme=dark)
+
+---
+
+Pin qilish tavsiyasi: profilga 2–4 eng kuchli repongizni pin qiling (data-pipelines, analytics-platform, fullstack-dashboard kabi).
+
+Agar xohlasangiz, men hoziroq kontaktlaringiz va haqiqiy loyiha URL'laringizni kiritib README'ni yakunlab beraman.  
