@@ -37,19 +37,11 @@ Men intuitiv va performansga yo'naltirilgan veb ilovalar yaratishni yaxshi ko'ra
 - [Project-B](https://github.com/Obidjon1122/project-b) — REST API, Node.js + Express, JWT auth
 - [Project-C](https://github.com/Obidjon1122/project-c) — Docker + CI/CD pipeline misoli
 
-(Qayd: ushbu bo'limni o'zingizning haqiqiy repolar bilan yangilang va GitHub profilida ularni pin qiling.)
-
 ---
 
 ## 📈 GitHub statistikika
 ![Obidjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obidjon1122&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obidjon1122&layout=compact&theme=radical)
-
----
-
-## 🧭 Portfolio / Blog
-- Portfolio: (link qo'ying)
-- Blog: (agar bor bo'lsa — texnik maqolalar, o'rgatuvchi postlar)
 
 ---
 
@@ -62,15 +54,5 @@ Men intuitiv va performansga yo'naltirilgan veb ilovalar yaratishni yaxshi ko'ra
 
 ## 🌱 Qanday qilib README-ni shaxsiylashtirish mumkin
 1. README ichidagi hamma linklarni o'zingizning haqiqiy repolaringiz va profil manzillaringiz bilan almashtiring.
-2. Header uchun Capsule Render URLidagi `text` parametrini o'zgartiring (masalan: `Obidjon | Backend Developer`).
+2. Header uchun Capsule Render URLidagi `text` parametrini o'zgartiring.
 3. GitHub stat va top-langs'ga username sifatida `Obidjon1122` qoldiring — avtomatik yangilanadi.
-4. Agar xohlasangiz, men README-ni to'liq siz haqingizdagi ma'lumotlar bilan to'ldirib beraman (loyihalar, texnologiyalar, bio). Faqat kerakli ma'lumotlarni yuboring.
-
----
-
-## 🙌 Qo'shimcha variantlar (aytganingizda tayyorlab beraman)
-- Minimal, Professional yoki Creative dizaynli README versiyalari
-- Inglizcha professional CV‑style README
-- GitHub Actions bilan avtomatik stat badgelarni yangilash
-
-Xohlasangiz hoziroq sizning haqiqiy loyihalaringiz, rol va kontaktingizni yuboring — men bu README-ni to'liq shaxsiylashtirib beraman va kerak bo'lsa inglizchaga ham tarjima qilaman.
