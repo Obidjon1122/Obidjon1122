@@ -72,9 +72,8 @@ Men ma'lumotlarni biznes qiymatiga aylantirishga ixtisoslashgan Data Engineer va
 ---
 
 ## 📬 Aloqa
-- Email: your.email@example.com  
-- Telegram: [@yourhandle](https://t.me/yourhandle)  
-- LinkedIn: https://www.linkedin.com/in/yourprofile
+- Email: alikulovobidjon0@gmail.com  
+- Telegram: [@yourhandle](https://t.me/obidjon_1122)  
 
 ---
 
