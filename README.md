@@ -73,7 +73,7 @@ Men ma'lumotlarni biznes qiymatiga aylantirishga ixtisoslashgan Data Engineer va
 
 ## 📬 Aloqa
 - Email: alikulovobidjon0@gmail.com  
-- Telegram: [@yourhandle](https://t.me/obidjon_1122)  
+- Telegram: [@obidjon_1122](https://t.me/obidjon_1122)  
 
 ---
 
